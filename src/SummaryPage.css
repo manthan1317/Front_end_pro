@@ -1,0 +1,13 @@
+.summary-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .summary-page .profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  

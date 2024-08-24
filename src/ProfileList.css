@@ -1,0 +1,27 @@
+.profile-list {
+    padding: 20px;
+  }
+  
+  .search-filter {
+    margin-bottom: 20px;
+  }
+  
+  .search-filter input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .search-filter select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .profiles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
